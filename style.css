@@ -1448,7 +1448,7 @@ header .mega-menu .links li:hover::before {
     flex-wrap: wrap;
 }
 .discount .image {
-    background-image: url(/images/discount-background1.jpg);
+    background-image: url(https://raw.githubusercontent.com/YoussefOs2/Templante_3/master/images/discount-background1.jpg);
     background-size: cover;
     color: white;
     flex-basis: 50%;
